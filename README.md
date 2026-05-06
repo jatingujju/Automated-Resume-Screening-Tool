@@ -1,4 +1,18 @@
-# 🚀 Automated Resume Screening ToolAn AI-powered Automated Resume Screening System built using Python, NLP, FastAPI, and Next.js.This project helps recruiters automatically analyze resumes, extract skills, compare candidates with job descriptions, and rank applicants using TF-IDF and cosine similarity scoring.---# 📌 Features✅ Resume PDF text extraction  ✅ DOCX resume extraction  ✅ Job description matching  ✅ Text cleaning & preprocessing  ✅ Keyword / skill extraction  ✅ TF-IDF vectorization  ✅ Cosine similarity scoring  ✅ Resume ranking system  ✅ Candidate shortlist decision  ✅ CSV report generation  ✅ FastAPI backend  ✅ Next.js frontend dashboard  ✅ Recruiter ranking interface  ---# 🧠 Tech Stack## Backend- Python- FastAPI- SQLite## NLP / ML- Scikit-learn- TF-IDF Vectorizer- Cosine Similarity- Sentence Transformers## Frontend- Next.js- React- Tailwind CSS---# 📁 Project Structure```textAutomated-Resume-Screening-Tool/│├── data/├── outputs/├── resumes/├── src/│├── app.py├── main.py├── evaluate.py├── ingestion.py├── README.md
+# 🚀 Automated Resume Screening ToolAn AI-powered Automated Resume Screening System built using Python, NLP, FastAPI, and Next.js.This project helps recruiters automatically analyze resumes, extract skills, compare candidates with job descriptions, and rank applicants using TF-IDF and cosine similarity scoring.---# 📌
+Features
+✅ Resume PDF text extraction 
+✅ DOCX resume extraction  
+✅ Job description matching 
+✅ Text cleaning & preprocessing 
+✅ Keyword / skill extraction  
+✅ TF-IDF vectorization  
+✅ Cosine similarity scoring 
+✅ Resume ranking system 
+✅ Candidate shortlist decision
+✅ CSV report generation 
+✅ FastAPI backend  
+✅ Next.js frontend dashboard
+✅ Recruiter ranking interface  ---# 🧠 Tech Stack## Backend- Python- FastAPI- SQLite## NLP / ML- Scikit-learn- TF-IDF Vectorizer- Cosine Similarity- Sentence Transformers## Frontend- Next.js- React- Tailwind CSS---# 📁 Project Structure```textAutomated-Resume-Screening-Tool/│├── data/├── outputs/├── resumes/├── src/│├── app.py├── main.py├── evaluate.py├── ingestion.py├── README.md
 
 ⚙️ Installation
 Clone Repository
